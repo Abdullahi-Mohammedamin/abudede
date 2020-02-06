@@ -1,0 +1,16 @@
+h1{
+  color: blue;
+  text-align: center;
+  background-color: yellow;
+}
+p{
+  font-family: sans-serif;
+}
+ol{
+  line-height: 40px;
+}
+h2{
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
